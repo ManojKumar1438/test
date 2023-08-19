@@ -1,0 +1,5 @@
+{{#user}}
+Name: Mekala Manoj Kumar
+Skills: HTML, CSS, JS, Next.js
+Email: manojkumar12manu34@gmail.com
+{{/user}}
